@@ -7,7 +7,6 @@
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-09/"
   },
-
   "keywords": [],
   "author": "",
   "license": "ISC",
